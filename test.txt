@@ -8,3 +8,6 @@ https://github.com/yanglei342130/repo2_http.git
 
 git@github.com:yanglei342130/repo1_test.git
 git@github.com:yanglei342130/repo1_test.git
+clone add some content
+local add some content
+
