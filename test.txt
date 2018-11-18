@@ -2,3 +2,9 @@
 22222222222222222222222
 333333333
 local add some content
+
+https://github.com/yanglei342130/repo1_test.git
+https://github.com/yanglei342130/repo2_http.git
+
+git@github.com:yanglei342130/repo1_test.git
+git@github.com:yanglei342130/repo1_test.git
